@@ -4,6 +4,9 @@
 
 This project focuses on the development of a dynamic and interactive Road Accident Dashboard using Microsoft Excel, designed to provide meaningful insights into road accident casualties for the years 2021 and 2022. The dashboard enables stakeholders to analyze accident trends, casualty distribution, and risk factors to support informed decision making, policy formulation, and road safety improvements.
 
+
+![Road accident dashboard complete](https://github.com/user-attachments/assets/a5c0e719-5f46-410a-90b1-37928daf65e7)
+
 ### Data Sources 📁
 
 - Primary Dataset: Road accident casualty data covering 2021 and 2022
